@@ -6,6 +6,7 @@
  */
 
 'use strict';
+// deneme deneme deneme msaidguven
 
 // Hi, if this is your first time editing/reading a Dangerfile, here's a summary:
 // It's a JS runtime which helps you provide continuous feedback inside GitHub.
